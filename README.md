@@ -55,6 +55,7 @@ Fintech es la industria que mejor paga con $56.000 USD promedio
 Colombia ocupa el 6to lugar en salarios tech de Latam con $37.690 USD
 
 **Stack:** MySQL · Power BI · Power Query · DAX · GitHub
+
 🔗 [Ver proyecto](https://github.com/camiloroman-dataanalyst/salarios-tech-latam)
 
 ---
