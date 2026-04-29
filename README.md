@@ -48,11 +48,11 @@ Dashboard interactivo de 4 páginas construido en Power BI con datos reales del 
 Análisis de salarios en el sector tecnológico en Latinoamérica basado en la Stack Overflow Developer Survey 2025. Dashboard interactivo de 4 páginas con datos de 1.728 profesionales tech de 8 países.
 
 **Hallazgos clave:**
-Uruguay es el país mejor pagado con $58.428 USD promedio
-El trabajo remoto paga 2.5x más que el presencial ($48k vs $19k)
-Developer AI Apps es el rol mejor pagado con $89.967 USD
-Fintech es la industria que mejor paga con $56.000 USD promedio
-Colombia ocupa el 6to lugar en salarios tech de Latam con $37.690 USD
+- Uruguay es el país mejor pagado con $58.428 USD promedio
+- El trabajo remoto paga 2.5x más que el presencial ($48k vs $19k)
+- Developer AI Apps es el rol mejor pagado con $89.967 USD
+- Fintech es la industria que mejor paga con $56.000 USD promedio
+- Colombia ocupa el 6to lugar en salarios tech de Latam con $37.690 USD
 
 **Stack:** MySQL · Power BI · Power Query · DAX · GitHub
 
