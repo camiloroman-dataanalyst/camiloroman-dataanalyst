@@ -40,7 +40,7 @@ Modelo Random Forest entrenado con 150.000 clientes bancarios para predecir mora
 
 **Stack:** Python · Scikit-learn · Pandas · Power BI · GitHub
 
-🔗 [Ver proyecto]([https://github.com/camiloroman-dataanalyst/riesgo-credito](https://github.com/camiloroman-dataanalyst/analisis-riesgos-prestamos#-problema-de-negocio)
+🔗 [Ver proyecto](https://github.com/camiloroman-dataanalyst/analisis-riesgos-prestamos#-problema-de-negocio)
 
 --- 
 
