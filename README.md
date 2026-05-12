@@ -29,6 +29,21 @@ Soy ingeniero mecatrónico del ITM con 2 años de experiencia docente en tecnolo
 
 ## 📊 Proyectos destacados
 
+### 🏦 Análisis de Riesgo Crediticio — Modelo Predictivo
+Modelo Random Forest entrenado con 150.000 clientes bancarios para predecir mora antes de aprobar un crédito.
+
+**Hallazgos clave:**
+- Detección del 74% de clientes morosos antes de aprobar el crédito
+- Ahorro estimado de $9.711.000 USD — reducción del 74.3% en pérdidas
+- El uso de tarjeta de crédito es el factor más predictivo con 24.4% de importancia
+- Cliente moroso típico: menor de 46 años, ingreso $5.840/mes, DebtRatio > 0.48
+
+**Stack:** Python · Scikit-learn · Pandas · Power BI · GitHub
+
+🔗 [Ver proyecto]([https://github.com/camiloroman-dataanalyst/riesgo-credito](https://github.com/camiloroman-dataanalyst/analisis-riesgos-prestamos#-problema-de-negocio)
+
+--- 
+
 ### 🚗 Análisis de Accidentalidad Vial en Antioquia (2014–2022)
 Dashboard interactivo de 4 páginas construido en Power BI con datos reales del gobierno colombiano.
 
